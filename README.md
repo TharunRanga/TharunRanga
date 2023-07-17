@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me rtharun9563@gmail.com
 
 <!---
 TharunRanga/TharunRanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
