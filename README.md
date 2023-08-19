@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TharunRanga
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Data Analyst & Full Stack Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rtharun9563@gmail.com
